@@ -53,5 +53,11 @@ fun main() {
 //    println(apellido.lowercase())
 
 
+//FORMATAÇÃO DE TEXTOS
 
+    //Desafio 2: Programa que imprima la cantidad de caracteres de su nombre y su edad en el año 2045.
+//    val nome = "Fredymar"
+//    val idade = 33
+//    val ano = 2050
+//    println("Olá meu nome é $nome. Em $ano eu terei ${idade + 26} anos. Meu nome possui ${nome.length} caracteres"
 }
